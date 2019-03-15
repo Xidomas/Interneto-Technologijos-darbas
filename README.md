@@ -1,8 +1,8 @@
-# WEB system
+# Unofficial MAL Client
 - [x] Replace "WEB system" with your system name
 
 ## Description
-- [ ] Provide WEB system description in few sentences - its purpose, users, etc.
+- [ ] My system will allow users to use mal functions using android app.
 
 ## Entity definition
 - [ ] Define the entity ("object" that will be manipulated) of WEB system
