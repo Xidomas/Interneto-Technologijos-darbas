@@ -1,5 +1,5 @@
 
-# Unoficial MAL Client
+# Unofficial MAL Client
 
 ## Description
 
