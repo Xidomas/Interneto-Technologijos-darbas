@@ -13,7 +13,7 @@ Anime/Manga
 
 - Picture - Pictures related to the item. (String Max 70)
 
-- Stats - Statistical information related to the item. (String Array 100)
+- Stats - Statistical information related to the item. (String Array 50)
 
 - Characters - Fetches the list of characters & staff members of the anime/manga. (String Array Max 20)
 
