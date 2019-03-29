@@ -9,17 +9,17 @@ My system will allow users to store information about their MyAnimeList account 
 
 Anime/Manga
 
-- Id -  Anime/Manga id.
+- Id - Anime/Manga id. (Integer Max 10)
 
-- Picture - Pictures related to the item.
+- Picture - Pictures related to the item. (String Max 70)
 
-- Stats - Statistical information related to the item.
+- Stats - Statistical information related to the item. (String Array 100)
 
-- Characters - Fetches the list of characters & staff members of the anime/manga.
+- Characters - Fetches the list of characters & staff members of the anime/manga. (String Array Max 20)
 
-- Reviews - String Array - Reviews written by users.
+- Reviews - String Array - Reviews written by users. (String Array Max 15)
 
-- Recomendation - Recommendations and their weightage made by users.
+- Recomendation - Recommendations and their weightage made by users. (String Array Max 5)
 
 ## API Definition
 
