@@ -1,4 +1,5 @@
-============================================================================================
+================================================================================
+
 Unoficial MAL Client
 
 My system will allow users to store information about their MyAnimeList account, update and remove information.
