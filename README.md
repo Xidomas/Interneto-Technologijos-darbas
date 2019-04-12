@@ -59,15 +59,17 @@ GET api/manga/:Id/Recommendations - Will return all recommendations about manga 
 
 - 404 Not Found - MyAnimeList responded with a 404.
 
-POST /mangalist/:Id - Will save into/update mangalist entries.
+POST /mangalist - Will save into mangalist entries.
+
+- 400 Bad Request - You've made an invalid request or to an invalid endpoint.
+
+PUT /mangalist/:Id - Will save into mangalist entries.
 
 - 400 Bad Request - You've made an invalid request or to an invalid endpoint.
 
 - 404 Not Found - MyAnimeList responded with a 404.
 
 DELETE /mangalist/:Id - Will delete existant entry in the mangalist.
-
-- 400 Bad Request - You've made an invalid request or to an invalid endpoint.
 
 - 404 Not Found - MyAnimeList responded with a 404.
 
