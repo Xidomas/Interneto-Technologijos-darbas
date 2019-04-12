@@ -7,7 +7,7 @@ My system will allow users to store information about their MyAnimeList account 
 
 ## Entity definition:
 
-Anime/Manga
+Manga
 
 - Id - Anime/Manga id. (Integer Max 10)
 
@@ -29,11 +29,15 @@ GET api/manga/:Id/Pictures - Will return all pictures about manga with certain i
 
 GET api/manga/:Id/Stats - Will return all stats about manga with certain id.
 
-GET api/manga/:Id/characters - Will return all character and staff information about manga with certain id.
+GET api/manga/:Id/Characters - Will return all character and staff information about manga with certain id.
 
 GET api/manga/:Id/Reviews - Will return all user reviews about manga with certain id.
 
 GET api/manga/:Id/Recommendations - Will return all recommendations about manga with certain id.
+
+POST /mangalist/:Id - Will save into/update mangalist entries.
+
+DELETE /mangalist/:Id - Will delete existant entry in the mangalist.
 
 =========================================================================
 
@@ -52,3 +56,5 @@ GET api/manga/:Id/Recommendations - Will return all recommendations about manga 
 
 UI definition
 https://wireframe.cc/Kddyl0
+
+https://wireframe.cc/uuUFp7
