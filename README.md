@@ -17,7 +17,7 @@ Anime/Manga
 
 - Characters - Fetches the list of characters & staff members of the anime/manga. (String Array Max 20)
 
-- Reviews - String Array - Reviews written by users. (String Array Max 15)
+- Reviews - Reviews written by users. (String Array Max 15)
 
 - Recomendation - Recommendations and their weightage made by users. (String Array Max 5)
 
