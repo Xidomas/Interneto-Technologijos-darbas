@@ -1,5 +1,5 @@
 
-# Unofficial MAL Client
+# MAL Manga Client
 
 ## Description
 
@@ -22,20 +22,6 @@ Anime/Manga
 - Recomendation - Recommendations and their weightage made by users. (String Array Max 5)
 
 ## API Definition
-
-GET api/anime/:Id - Will return all information about anime with certain id.
-
-GET api/anime/:Id/Pictures - Will return all pictures about anime with certain id.
-
-GET api/anime/:Id/Stats - Will return all stats about anime with certain id.
-
-GET api/anime/:Id/characters_staff - Will return all character and staff information about anime with certain id.
-
-GET api/anime/:Id/Reviews - Will return all user reviews about anime with certain id.
-
-GET api/anime/:Id/Recommendations - Will return all recommendations about anime with certain id.
-
-=========================================================================
 
 GET api/manga/:Id - Will return all information about manga with certain id.
 
