@@ -54,7 +54,8 @@ DELETE /mangalist/:Id - Will delete existant entry in the mangalist.
 - 429 Too Many Requests - You are being rate limited or Jikan is being rate-limited by MyAnimeList.
 
 
-UI definition
+UI definitions:
+
 https://wireframe.cc/Kddyl0
 
 https://wireframe.cc/uuUFp7
