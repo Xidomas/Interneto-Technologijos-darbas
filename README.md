@@ -51,7 +51,4 @@ GET api/manga/:Id/Recommendations - Will return all recommendations about manga 
 
 
 UI definition
-https://wireframe.cc/vR9Euf
-
-
-https://github.com/ExampleJenkinsOrg/web-system-template
+https://wireframe.cc/Kddyl0
